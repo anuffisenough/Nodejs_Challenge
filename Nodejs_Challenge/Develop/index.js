@@ -3,7 +3,8 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
-const questions = [
+inquirer
+    .prompt([
     {
         type: "input",
         message: "What is the title of your project?", 
@@ -40,14 +41,15 @@ const questions = [
         name: "license",
         choices: ["gnu", "mit", "mozilla"],
     }
-     ];
-
-inquirer
-.prompt(questions);
+     ])
+    .then((response) =>
+        fs.writeFile("README.md",`# ${response.title}\n\n## Description\n${response.description}\n\n## Table of Contents\n-[Description](#description)\n\n-[Installation](#installation)\n\n-[Usage](#usage)\n\n-[License](#license)\n\n-[Contributing](#contributing)\n\n-[Tests](#tests)\n\n-[Questions](#questions)\n\n## Installation\n${response.installation}\n\n## Usage\n${response.usage}\n\n## License\n${response.choices}\n\n## Contributing\n${response.contributing}\n\n## Tests\n${response.tests}\n\n## Questions\n${response.questions}`, (err) =>
+        err ? console.error(err) : console.log("success!"))
+);
 
 // // TODO: Create a function to write README file
 // function writeToFile(fileName, data) {}
-
+    
 // // TODO: Create a function to initialize app
 // function init() {}
 
