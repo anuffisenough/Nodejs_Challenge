@@ -1,9 +1,8 @@
-// TODO: Include packages needed for this application
+
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-// TODO: Create an array of questions for user input
-
+console.log("Let's generate a README file for your project!")
 inquirer
     .prompt([
     {
@@ -58,11 +57,4 @@ inquirer
         err ? console.error(err) : console.log("success!"))
 );
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-    
-// // TODO: Create a function to initialize app
-// function init() {}
 
-// // Function call to initialize app
-// init();
