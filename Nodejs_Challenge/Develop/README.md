@@ -1,7 +1,7 @@
-# Node Project
+# Node.js Project
 
 ## Description
-Simply put, a paragraph is a collection of sentences all related to a central topic, idea, or theme. Paragraphs act as structural tools for writers to organize their thoughts into an ideal progression, and they also help readers process those thoughts effortlessly. Imagine how much harder reading and writing would be if everything was just one long block of text. 
+This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.
 
 ## Table of Contents
 -[Description](#description)
@@ -19,19 +19,20 @@ Simply put, a paragraph is a collection of sentences all related to a central to
 -[Questions](#questions)
 
 ## Installation
-That’s the basic idea, but in practice there’s more to it. Let’s look at the four main types of paragraphs to learn how and when to use them. 
+This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.
 
 ## Usage
-Simply put, a paragraph is a collection of sentences all related to a central topic, idea, or theme. Paragraphs act as structural tools for writers to organize their thoughts into an ideal progression, and they also help readers process those thoughts effortlessly. Imagine how much harder reading and writing would be if everything was just one long block of text. 
+This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.
 
 ## License
 undefined
 
 ## Contributing
-There’s a lot of flexibility when it comes to writing paragraphs, but if there’s one steadfast rule, it’s this: Paragraphs should relate to one main topic or point. The paragraph itself often contains multiple points spanning several sentences, but they should all revolve around one core theme. Just as sentences build upon each other to communicate the paragraph’s core theme, paragraphs work together to communicate the core theme of the writing as a whole. 
+This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.
 
 ## Tests
-That’s the basic idea, but in practice there’s more to it. Let’s look at the four main types of paragraphs to learn how and when to use them. 
+This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.
 
 ## Questions
-undefined
+My github account can be found at https://github.com/anuffisenough 
+Questions regarding this project can be directed to my email, uffmanch@gmail.com
