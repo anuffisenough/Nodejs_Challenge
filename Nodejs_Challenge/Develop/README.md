@@ -1,7 +1,7 @@
 # Node Project
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et eros eget nisl sollicitudin pharetra sit amet eget urna. Vivamus quis metus auctor, ullamcorper dolor id, hendrerit orci. In fringilla mi diam, sed varius ipsum tincidunt in. Etiam finibus, tortor fermentum scelerisque maximus, massa dolor feugiat mi, sit amet scelerisque leo turpis eu ante. Phasellus laoreet orci non nulla posuere pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed semper eros id tortor ullamcorper, id dictum quam consectetur.
+Simply put, a paragraph is a collection of sentences all related to a central topic, idea, or theme. Paragraphs act as structural tools for writers to organize their thoughts into an ideal progression, and they also help readers process those thoughts effortlessly. Imagine how much harder reading and writing would be if everything was just one long block of text. 
 
 ## Table of Contents
 -[Description](#description)
@@ -19,19 +19,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et eros eget 
 -[Questions](#questions)
 
 ## Installation
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et eros eget nisl sollicitudin pharetra sit amet eget urna. Vivamus quis metus auctor, ullamcorper dolor id, hendrerit orci. In fringilla mi diam, sed varius ipsum tincidunt in. Etiam finibus, tortor fermentum scelerisque maximus, massa dolor feugiat mi, sit amet scelerisque leo turpis eu ante. Phasellus laoreet orci non nulla posuere pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed semper eros id tortor ullamcorper, id dictum quam consectetur.
+That’s the basic idea, but in practice there’s more to it. Let’s look at the four main types of paragraphs to learn how and when to use them. 
 
 ## Usage
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et eros eget nisl sollicitudin pharetra sit amet eget urna. Vivamus quis metus auctor, ullamcorper dolor id, hendrerit orci. In fringilla mi diam, sed varius ipsum tincidunt in. Etiam finibus, tortor fermentum scelerisque maximus, massa dolor feugiat mi, sit amet scelerisque leo turpis eu ante. Phasellus laoreet orci non nulla posuere pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed semper eros id tortor ullamcorper, id dictum quam consectetur.
+Simply put, a paragraph is a collection of sentences all related to a central topic, idea, or theme. Paragraphs act as structural tools for writers to organize their thoughts into an ideal progression, and they also help readers process those thoughts effortlessly. Imagine how much harder reading and writing would be if everything was just one long block of text. 
 
 ## License
 undefined
 
 ## Contributing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et eros eget nisl sollicitudin pharetra sit amet eget urna. Vivamus quis metus auctor, ullamcorper dolor id, hendrerit orci. In fringilla mi diam, sed varius ipsum tincidunt in. Etiam finibus, tortor fermentum scelerisque maximus, massa dolor feugiat mi, sit amet scelerisque leo turpis eu ante. Phasellus laoreet orci non nulla posuere pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed semper eros id tortor ullamcorper, id dictum quam consectetur.
+There’s a lot of flexibility when it comes to writing paragraphs, but if there’s one steadfast rule, it’s this: Paragraphs should relate to one main topic or point. The paragraph itself often contains multiple points spanning several sentences, but they should all revolve around one core theme. Just as sentences build upon each other to communicate the paragraph’s core theme, paragraphs work together to communicate the core theme of the writing as a whole. 
 
 ## Tests
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et eros eget nisl sollicitudin pharetra sit amet eget urna. Vivamus quis metus auctor, ullamcorper dolor id, hendrerit orci. In fringilla mi diam, sed varius ipsum tincidunt in. Etiam finibus, tortor fermentum scelerisque maximus, massa dolor feugiat mi, sit amet scelerisque leo turpis eu ante. Phasellus laoreet orci non nulla posuere pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed semper eros id tortor ullamcorper, id dictum quam consectetur.
+That’s the basic idea, but in practice there’s more to it. Let’s look at the four main types of paragraphs to learn how and when to use them. 
 
 ## Questions
 undefined

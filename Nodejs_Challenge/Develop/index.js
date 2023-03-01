@@ -3,6 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
+
 inquirer
     .prompt([
     {
@@ -40,6 +41,16 @@ inquirer
         message: "Please choose a license for your application from the following options:",
         name: "license",
         choices: ["gnu", "mit", "mozilla"],
+    },
+    {
+        type: "input",
+        message: "Please enter your github username:",
+        name: "github",
+    },
+    {
+        type: "input",
+        message: "Please enter your email address:",
+        name: "email",
     }
      ])
     .then((response) =>
