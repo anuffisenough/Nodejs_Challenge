@@ -53,7 +53,7 @@ inquirer
     }
      ])
     .then((response) =>
-        fs.writeFile("README.md",`# ${response.title}\n\n## Description\n${response.description}\n\n## Table of Contents\n-[Description](#description)\n\n-[Installation](#installation)\n\n-[Usage](#usage)\n\n-[License](#license)\n\n-[Contributing](#contributing)\n\n-[Tests](#tests)\n\n-[Questions](#questions)\n\n## Installation\n${response.installation}\n\n## Usage\n${response.usage}\n\n## License\n${response.choices}\n\n## Contributing\n${response.contributing}\n\n## Tests\n${response.tests}\n\n## Questions\nMy github account can be found at https://github.com/${response.github} \nQuestions regarding this project can be directed to my email, ${response.email}`, (err) =>
+        fs.writeFile("README.md",`# ${response.title}\n\n## Description\n${response.description}\n\n## Table of Contents\n-[Description](#description)\n\n-[Installation](#installation)\n\n-[Usage](#usage)\n\n-[License](#license)\n\n-[Contributing](#contributing)\n\n-[Tests](#tests)\n\n-[Questions](#questions)\n\n## Installation\n${response.installation}\n\n## Usage\n${response.usage}\n\n## Contributing\n${response.contributing}\n\n## Tests\n${response.tests}\n\n## License\nThis application is covered under the following license(s): ${response.license}\n\n## Questions\nMy github account can be found at https://github.com/${response.github} \n\nQuestions regarding this project can be directed to my email, ${response.email}`, (err) =>
         err ? console.error(err) : console.log("success!"))
 );
 
